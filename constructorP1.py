@@ -11,3 +11,4 @@ class Student:
     
 s1=Student("tony stark",[92,97,98])
 s1. get_avg()
+
