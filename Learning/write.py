@@ -1,5 +1,5 @@
 f=open("demo.txt","a")
-f.write("\nThen i will move to react.js") #overwrites the data in demo.txt
+f.write("\n I am editing this tool") #overwrites the data in demo.txt
 
 f.close()
 
