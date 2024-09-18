@@ -3,12 +3,12 @@ def is_even(number):
 
 num=10
 if is_even(num):
-  print("Is Even Number ")
+  print(f"{num} Is Even Number ")
 else:
-  print("Is Not Even Number")
+  print(f"{num} Is Not Even Number")
   
 num=25
 if is_even(num):
-  print("Is Even Number ")
+  print(f"{num} Is Even Number ")
 else:
-  print("Is Not Even Number")
+  print(f"{num} Is Not Even Number")
